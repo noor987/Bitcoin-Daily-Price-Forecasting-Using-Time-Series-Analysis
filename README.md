@@ -1,4 +1,4 @@
-# 📈 Bitcoin Price Forecasting Assignment - 121XXXX_Assignment_4.ipynb
+# 📈 Bitcoin Price Forecasting 
 
 This project explores the use of **time series forecasting models** on **Bitcoin's daily closing price** data. The goal is to compare linear, non-linear, and ARIMA models to predict future prices and determine the most accurate forecasting technique.
 
